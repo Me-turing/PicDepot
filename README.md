@@ -1,0 +1,2 @@
+# PicDepot
+JsDelivr CDN
